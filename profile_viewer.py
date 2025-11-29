@@ -3,7 +3,7 @@ from beem import Hive
 from beem.account import Account
 import json
 
-h = Hive(node=["https://api.hive.blog"])
+h = Hive()
 
 st.write("# Visor de Perfiles de Hive")
 
